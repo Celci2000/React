@@ -1,0 +1,33 @@
+body{
+    background-color:purple;
+   
+}
+.App{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  
+   
+   
+}
+.main{
+    background-color:white;
+    width: 800px;
+    height:50%;
+    margin:30px;
+    padding: 40px;
+    
+}
+.title{
+    width:90%;
+    height: 70px;
+    margin-bottom:40px;
+    background-color: yellow;
+    color:black;
+    padding:10px;
+   
+}
+.btn{
+    border-radius:50%;
+
+}
